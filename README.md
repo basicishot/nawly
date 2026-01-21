@@ -30,5 +30,5 @@
 ## stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basicishot&show_icons=true&hide_title=true&theme=dark" />
 </p>
