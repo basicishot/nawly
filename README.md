@@ -22,10 +22,19 @@
 ## tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" alt="jetbrains ides" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" alt="android studio" />
-  <img src="https://cdn.simpleicons.org/ghidra/ffffff" width="36" alt="ghidra" />
-  <img src="https://cdn.simpleicons.org/hex-rays/ffffff" width="36" alt="ida pro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="36" alt="intellij idea" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="36" alt="pycharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="36" alt="webstorm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="36" alt="clion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="36" alt="rider" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" width="36" alt="goland" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="36" alt="phpstorm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" width="36" alt="rubymine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="36" alt="datagrip" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" />
+  <img src="https://cdn.simpleicons.org/apachecassandra" width="36" />
+  <img src="https://cdn.simpleicons.org/dotnet" width="36" />
+  <img src="https://cdn.simpleicons.org/7zip" width="36" />
 </p>
 
 ---
